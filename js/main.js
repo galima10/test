@@ -1,0 +1,1 @@
+import{t as e,f as t}from"./favicon.js";document.querySelector("h1").style.fontSize="100px";document.querySelector("#footer").style.width="100px";document.querySelector("#footer").style.height="100px";document.querySelector("#footer").style.background=`url(${e})`;document.querySelector(".img-footer").src=t;
